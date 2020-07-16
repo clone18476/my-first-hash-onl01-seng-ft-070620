@@ -1,5 +1,5 @@
-def my_hash(yee)
-  yee = {"haw" => "pardner", "hee" => "dino"}
+def my_hash(your_hash)
+  your_hash = {"haw" => "pardner", "hee" => "dino"}
 end
 
 def shipping_manifest
