@@ -2,8 +2,6 @@ def my_hash(yee)
   yee = {"haw" => "pardner", "hee" => "dino"}
 end
 
-my_hash(yee)
-
 def shipping_manifest
   # set a variable called `the_manifest`, equal to a hash
   # fill that hash with key/value pairs that describe the following information: 
